@@ -1,0 +1,6 @@
+name: Playerworldedit
+version: ${project.version}
+main: me.zachary.playerworldedit.Playerworldedit
+api-version: 1.13
+authors: [ Zach_FR ]
+description: Give ability to your player to use world edit with their inventory block
